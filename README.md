@@ -1,2 +1,2 @@
 # GoogleColabNotebooksSchool
-University of Utah google colab notebooks from Business Data Mining class in 2021
+University of Utah Google Colab notebooks from Business Data Mining class in 2021
